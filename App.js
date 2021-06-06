@@ -11,6 +11,7 @@ export default function App() {
        title="Toggle Button" />
       <StatusBar style="auto" />
     </View>
+    //buttton view
   );
 }
 
